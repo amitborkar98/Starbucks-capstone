@@ -1,0 +1,2 @@
+training_score,testing_score,best_parameter(n_neighbors)
+91.26817042606517,87.74482162324725,5
