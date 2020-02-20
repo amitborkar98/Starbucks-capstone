@@ -1,0 +1,2 @@
+training_score,testing_score,f1_score,base_estimator,best_parameters(random_state),best_parameters(n_estimators)
+95.62406015037594,91.30107890680802,0.9096234963286985,RandomForestClassifier,42,10

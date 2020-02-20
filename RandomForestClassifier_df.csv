@@ -1,0 +1,2 @@
+training_score,testing_score,f1_score,best_parameters(max_depth),best_parameters(n_estimators)
+92.30827067669173,91.32363444983271,0.9105495698007907,10,250
