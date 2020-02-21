@@ -1,0 +1,2 @@
+training_mean_absolute_error,training_median_absolute_error,testing_mean_absolute_error,testing_median_absolute_error,best_parameters(random_state),best_parameters(n_estimators),best_parameters(max_depth),best_parameters(subsample),best_parameters(max_features)
+13.675590835208032,6.903460902143712,21.811741402070243,10.346020508398968,1,100,10,1,0.8
